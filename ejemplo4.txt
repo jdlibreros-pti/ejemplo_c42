@@ -1,0 +1,2 @@
+Otro contenido adicional
+para las clases de GIT
