@@ -1,3 +1,3 @@
  function saludar(){
-    alert("Hola alumnos");
+    alert("Hola alumnos de Parquesoft");
  }
