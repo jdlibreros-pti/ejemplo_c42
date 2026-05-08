@@ -2,3 +2,4 @@ Hola alumnos de Parquesoft
 Bienvenidos a la clase de GIT 
 GIT es util para controlar los 
 Cambios en el codigo
+GIT permite versionar mi codigo
